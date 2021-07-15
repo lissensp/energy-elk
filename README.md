@@ -1,3 +1,10 @@
+adaptation docker-elk, to include sunnyboy logger as datasource, more docs coming soon
+
+
+
+
+
+
 # Elastic stack (ELK) on Docker
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-7.13.2-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)
